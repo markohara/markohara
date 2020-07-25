@@ -1,4 +1,4 @@
-### Hi there 👋
+# Mark O'Hara,  iOS Engineer @ Neurovalens
 
 <!--
 **markohara/markohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
