@@ -1,3 +1,5 @@
+![header](./assets/header.png)
+
 # Mark O'Hara,  iOS Engineer @ Neurovalens
 
 <!--
