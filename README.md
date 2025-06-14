@@ -1,4 +1,7 @@
-![header](./assets/header.png)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+    <img alt="Mark O'Hara's GitHub Profile README" src="./assets/header-light.png">
+</picture>
 
 # Mark O'Hara,  iOS Engineer @ Neurovalens
 
